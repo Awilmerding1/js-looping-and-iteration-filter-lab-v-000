@@ -10,6 +10,6 @@ function fuzzyMatch(drivers, letters) {
   return l;
 }
 
-function matchName(drivers, name) {
+function matchName(drivers, string) {
   
 }
