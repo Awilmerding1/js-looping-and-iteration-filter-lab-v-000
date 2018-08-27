@@ -5,7 +5,7 @@ function findMatching(drivers, name) {
   return d;
 }
 
-function fuzzyMatch(drivers, name) {
+function fuzzyMatch(drivers, letters) {
   
   
 }
