@@ -6,6 +6,6 @@ function findMatching(drivers, name) {
 }
 
 function fuzzyMatch(drivers, letters) {
-  
+  const l = drivers.filter(function(letters) { return drivers.})
   
 }
