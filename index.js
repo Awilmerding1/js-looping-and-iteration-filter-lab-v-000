@@ -11,5 +11,5 @@ function fuzzyMatch(drivers, letters) {
 }
 
 function matchName(drivers, string) {
-  const d = drivers.filter(function(driver))
+  const d = drivers.filter(function(driver) {return driver[name] })
 }
