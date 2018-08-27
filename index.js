@@ -2,4 +2,5 @@
 
 function findMatching(drivers, name) {
   const d = drivers.filter(function(driver) {return driver === name});
+  return d;
 }
